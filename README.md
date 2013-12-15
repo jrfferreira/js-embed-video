@@ -19,7 +19,6 @@ Just insert in your code and use:
  * Vimeo
  * DailyMotion
  * Coub
- * 
  
 Available mehods:
 
