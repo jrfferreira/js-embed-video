@@ -22,5 +22,6 @@ Just insert in your code and use:
  
 Available mehods:
 
- * analyzeURL([url]): Check if your URL is supported
- * toString(): Get a embed code for your video
+ * customSize(w,h): Set video Width and Height;
+ * analyzeURL([url]): Check if your URL is supported;
+ * toString(): Get a embed code for your video;
